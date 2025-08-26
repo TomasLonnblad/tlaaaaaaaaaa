@@ -1,6 +1,6 @@
 <template>
   <NuxtLayout>
-    <!-- https://image.nuxt.com/usage/nuxt-img -->
+    <!-- https://image.nuxt.com/usage/nuxt-imgg -->
     <figure class="mb-8">
       <NuxtImg
         src="/images/mountains_1.jpg"
